@@ -9,3 +9,13 @@ function isPalindrome(string) {
 
     return cleanStr === cleanStr.split('').reverse().join('')
 }
+
+// Sum Array 
+function sumArr(arr) {
+    const sum = 0 
+
+    for (i = 0; o < arr.length; i++) {
+        sum += arr[i]
+    }
+    return sum
+}
